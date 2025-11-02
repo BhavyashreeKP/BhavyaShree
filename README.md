@@ -8,7 +8,7 @@
 
 ![](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg7pbgnih9nziulfu3u9.gif)
 
-## View live demo [here](https://pavankumarbitra.netlify.app/).
+## View live demo [here](https://bhavyashree.netlify.app/).
 
 ---
 
