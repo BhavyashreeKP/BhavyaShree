@@ -1,17 +1,17 @@
 export const experienceData = [
         {
         id: 1,
-        company: 'Innovarsity',
-        jobtitle: 'SWE Intern',
-        startYear: 'Jul 2024',
-        endYear: 'Jul 2025'
+        company: 'TechFortune',
+        jobtitle: 'DSA java',
+        startYear: 'Jul 2025',
+        endYear: 'Sep 2025'
     },
     {
         id: 2,
-        company: 'GoPrac Private Limited',
-        jobtitle: 'AI Intern',
-        startYear: 'Nov 2023',
-        endYear: 'Feb 2024'
+        company: 'TechFortune',
+        jobtitle: 'React.js',
+        startYear: 'Sep 2025',
+        endYear: 'Dec 2024'
     },
 
     // {
@@ -21,13 +21,13 @@ export const experienceData = [
     //     startYear: 'Nov 2023',
     //     endYear: 'Dec 2023'
     // },
-    {
-        id: 3,
-        company: 'YHills Edutech Private Limited',
-        jobtitle: 'Artificial Intelligence Intern',
-        startYear: 'Oct 2022',
-        endYear: 'Dec 2022'
-    },
+    //{
+       // id: 3,
+        //company: 'YHills Edutech Private Limited',
+        //jobtitle: 'Artificial Intelligence Intern',
+        //startYear: 'Oct 2022',
+        //endYear: 'Dec 2022'
+   // },
     
     
 ]

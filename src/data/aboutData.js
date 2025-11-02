@@ -1,5 +1,5 @@
 export const aboutData = {
     title: "Who I am",
-    // description1: "My name is Bitra Pavan Kumar. I'm a Data Analyst and developer.",
-    description2: "I’m a professional full-stack developer with expertise in MERN stack (MongoDB, Express, React, Node.js) and Python development. A quick learner with a strong self-learning attitude, I’m passionate about exploring new technologies and continually improving my skill set.I thrive on solving problems and enjoy working across all layers of the software development stack. My current focus includes building scalable, efficient applications using technologies such as Node.js, React, MySQL, Firebase, and more..",
+    // description1: "My name is BHAVYASHREE K P. I'm a full stack web developer.",
+    description2: "I'm a professional MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. As a quick learner with a strong self-learning attitude, I'm passionate about building scalable web applications and exploring new technologies within the JavaScript ecosystem. I thrive on solving complex problems and enjoy working with modern development tools and practices. My focus is on creating efficient, user-friendly applications while maintaining clean, maintainable code architecture.",
 }

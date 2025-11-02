@@ -14,14 +14,14 @@ export const skillsData = [
     // 'Ubuntu',
     'MongoDB',
     // 'Tailwind',
-    'MySQL',
+   // 'MySQL',
     'OpenCV',
-    'Numpy',
+    //'Numpy',
     'Python',
-    'C',
+    //'C',
     // 'PostgreSQL',
     // 'MaterialUI',
-    'Firebase'
+    //'Firebase'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

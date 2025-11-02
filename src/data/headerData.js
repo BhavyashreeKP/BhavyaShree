@@ -1,9 +1,9 @@
-import dp from '../assets/png/dp.jpg'
+import dp from '../assets/png/my.jpg'
 export const headerData = {
-    name: 'Bitra Pavan Kumar',
+    name: 'Bhavyashree K P',
     title: "Hello! I am",
-    desciption: "Hello! I’m Bitra Pavan Kumar, a passionate full-stack developer with a strong focus on continuous learning and problem-solving. I thrive in dynamic environments where I can face new challenges and apply innovative solutions.Driven by curiosity, I’m always eager to learn new technologies and expand my skill set. I believe in creating meaningful, high-impact projects, and I am dedicated to delivering results through efficient, scalable, and well-structured solutions.",
+    desciption: "Hello! I'm Bhavyashree K P, a passionate MERN stack developer specializing in MongoDB, Express.js, React.js, and Node.js. I thrive in fast-paced environments, enjoy tackling new challenges, and delivering thoughtful, scalable solutions. Driven by curiosity, I continually learn new technologies to expand my skill set and create meaningful, high-impact web applications.",
     image: dp,
     // imagebw: 'https://i.ibb.co/Cw2Xp90/abu-said-bw.jpg',
-    resumePdf: 'https://drive.google.com/file/d/1MK9UbJqSfFFtXHQf1OjTltbTCmNrEFPR/view?usp=sharing'
+    resumePdf: 'https://drive.google.com/file/d/12-0SzE8dU2V3WFk9qagePmkqvNPP9pkB/view?usp=sharing'
 }
